@@ -1,4 +1,4 @@
- management:
+management:
   endpoints:
     web:
       exposure:
@@ -18,7 +18,6 @@
     show-sql: false
     hibernate:
       ddl-auto: update
-
 eureka:
   client:
     service-url:
