@@ -25,4 +25,12 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 myapp:
-   title: "default"
+   title: "stage"
+store:
+  storeNo: 2
+  storeName: Medplus Pharmacy
+  owner: suresh
+  openHours: 9
+  openMinutes: 00
+  closHours: 11
+  closeMinutes: 00   

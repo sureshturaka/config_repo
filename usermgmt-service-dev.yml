@@ -26,3 +26,11 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 myapp:
    title: "dev"
+store:
+  storeNo: 1
+  storeName: Apollo Pharmacy
+  owner: suresh
+  openHours: 9
+  openMinutes: 00
+  closHours: 11
+  closeMinutes: 00   
