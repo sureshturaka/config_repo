@@ -31,6 +31,6 @@ store:
   storeName: Medicare Pharmacy
   owner: suresh
   openHours: 9
-  openMinutes: 00
+  openMinutes: 20
   closeHours: 11
-  closeMinutes: 00   
+  closeMinutes: 30 
