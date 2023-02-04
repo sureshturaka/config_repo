@@ -25,4 +25,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 myapp:
-   title: "don"
+   title: "default"
