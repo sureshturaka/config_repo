@@ -27,8 +27,8 @@ eureka:
 myapp:
    title: "stage"
 store:
-  storeNo: 4
-  storeName: Medicare Pharmacy
+  storeNo: 5
+  storeName: Medplus Pharmacy
   owner: suresh
   openHours: 9
   openMinutes: 20
