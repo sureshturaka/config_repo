@@ -27,9 +27,9 @@ eureka:
 myapp:
    title: "stage"
 store:
-  storeNo: 5
+  storeNo: 6
   storeName: Medplus Pharmacy
-  owner: suresh
+  owner: Yuvaraj
   openHours: 9
   openMinutes: 20
   closeHours: 11
