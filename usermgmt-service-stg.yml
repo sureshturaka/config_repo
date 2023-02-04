@@ -32,5 +32,5 @@ store:
   owner: suresh
   openHours: 9
   openMinutes: 00
-  closHours: 11
+  closeHours: 11
   closeMinutes: 00   
