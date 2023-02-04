@@ -27,7 +27,7 @@ eureka:
 myapp:
    title: "stage"
 store:
-  storeNo: 3
+  storeNo: 4
   storeName: Medicare Pharmacy
   owner: suresh
   openHours: 9
